@@ -5,4 +5,4 @@ SJF (Shortest Job First) scheduling algorithm implementation.
 SRTF (Shortest Remaining Time First) scheduling algorithm implementation.
 Priority Scheduling algorithm implementation.
 ## Team Member:
-@https://github.com/nadagaber
+[Nada Gaber](https://github.com/nadagaber)
